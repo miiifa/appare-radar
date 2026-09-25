@@ -18,6 +18,20 @@ SCHEDULE_URL = "https://appare-official.jp/contents/schedule"
 RADIO_URL = "https://fmftp.lekumo.biz/spice/appare/"
 NAMES = ("朝比奈れい", "永堀ゆめ", "藤宮めい", "七瀬れあ", "藍井すず", "橋本あみ", "北野あむ", "森川なつ", "坂本りさ")
 WEEKDAYS = "月火水木金土日"
+# Short prompts are editorial notes written after reading these exact posts.
+# Posts absent from this list receive a neutral prompt and their original link.
+POST_TOPICS = {
+    "/spice/2026/09/appare-c4c7.html": ("ラジオ卒業を前に、印象に残った放送を振り返る。", "Mスパで一番思い出に残ってる話は？"),
+    "/spice/2026/09/appare-dc00.html": ("乃木坂46の一曲を選曲。", "『帰り道は遠回りしたくなる』のどこが好き？"),
+    "/spice/2026/09/appare-aa8d.html": ("塩パンに夢中。", "最高の塩パン、見つかった？"),
+    "/spice/2026/09/appare-80e4.html": ("生誕祭に合わせた紫のネイル。", "あの色、どうやって決めたの？"),
+    "/spice/2026/08/appare-c4c7.html": ("夢限大みゅーたいぷの曲を紹介。", "この曲でとくに好きなところは？"),
+    "/spice/2026/08/appare-fe41.html": ("椎名林檎の曲を紹介。", "今年の夏に聴きたくなった曲は？"),
+    "/spice/2026/08/appare-755e.html": ("ツアーファイナルと生誕祭を振り返る。", "あの日のステージで印象に残った場面は？"),
+    "/spice/2026/08/appare-dc00.html": ("Merry BAD TUNE.の曲を選曲。", "『86 SUMMER FILM』で心に残ったところは？"),
+    "/spice/2026/07/appare-aa8d.html": ("夏にやりたいことを語る。", "今年の夏、やってみたかったことは？"),
+    "/spice/2026/07/appare-c4d6.html": ("夏に聴くYUIの話。", "夏の定番曲、何が好き？"),
+}
 
 
 class ScheduleParser(HTMLParser):
@@ -142,7 +156,9 @@ def render_posts(items, today):
             continue
         seen.add(item["href"])
         d, name, url = safe(item["date"]), safe(item["name"]), safe(item["href"])
-        cards.append(f'<article class="card"><time datetime="{d}">{short_date(d)} 投稿</time><h3>{name}のラジオ投稿</h3><p>投稿を読んで気になった話題を一つ選ぼう。チェキでは「この話、もう少し聞きたい！」から。</p><a href="{url}" target="_blank" rel="noopener noreferrer">本人の投稿を読む ↗</a></article>')
+        topic = POST_TOPICS.get(urlparse(item["href"]).path)
+        prompt = f'{safe(topic[0])} チェキでは「{safe(topic[1])}」' if topic else '元の投稿を読んで、気になった話題を一つ選ぼう。チェキでは「この話、もう少し聞きたい！」から。'
+        cards.append(f'<article class="card"><time datetime="{d}">{short_date(d)} 投稿</time><h3>{name}のラジオ投稿</h3><p>{prompt}</p><a href="{url}" target="_blank" rel="noopener noreferrer">本人の投稿を読む ↗</a></article>')
         if len(cards) == 6:
             break
     if not cards:
