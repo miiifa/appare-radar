@@ -170,7 +170,11 @@ def main():
         schedule = ScheduleParser()
         schedule.feed(fetch(SCHEDULE_URL))
         radio = RadioParser()
-        radio.feed(fetch(RADIO_URL))
+        try:
+            radio.feed(fetch(RADIO_URL))
+        except Exception as error:
+            # The radio series has announced its final episode; its archive may move.
+            print(f"Radio archive unavailable; continuing other sources: {error}", file=sys.stderr)
         information = ScheduleParser()
         information.feed(fetch(INFORMATION_URL))
         blog_items = []
@@ -182,7 +186,7 @@ def main():
             blog_items.extend(blog.items)
             if min(item["date"] for item in blog.items) < cutoff:
                 break
-        if not schedule.items or not information.items or not blog_items or not radio.items:
+        if not schedule.items or not information.items or not blog_items:
             raise ValueError(f"No items found: schedule={len(schedule.items)}, news={len(information.items)}, blog={len(blog_items)}, radio={len(radio.items)}")
         events = []
         seen = set()
