@@ -1,6 +1,9 @@
 name: Refresh conversations and schedule
 
 on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/daily-update.yml']
   schedule:
     - cron: '0 0 * * *' # 09:00 Japan Standard Time
   workflow_dispatch:
