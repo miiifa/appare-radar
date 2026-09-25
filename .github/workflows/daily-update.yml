@@ -32,10 +32,10 @@ jobs:
         run: python scripts/update_site.py
       - name: Save refreshed cards
         run: |
-          if ! git diff --quiet -- index.html; then
+          if ! git diff --quiet -- data/updates.js; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            git add index.html
+            git add data/updates.js
             git commit -m 'Refresh official schedule and member posts'
             git push
           fi
