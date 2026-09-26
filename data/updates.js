@@ -1,7 +1,7 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-09-25",
-  "windowStart": "2026-08-26",
+  "checked": "2026-09-26",
+  "windowStart": "2026-08-27",
   "events": [
     {
       "date": "2026-09-27",
