@@ -1,7 +1,7 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-09-28",
-  "windowStart": "2026-08-29",
+  "checked": "2026-09-29",
+  "windowStart": "2026-08-30",
   "events": [
     {
       "date": "2026-09-29",
@@ -67,6 +67,25 @@ window.APPARE_UPDATES = {
     }
   ],
   "stories": [
+    {
+      "date": "2026-09-29",
+      "member": "rei",
+      "name": "朝比奈れい",
+      "url": "https://fmftp.lekumo.biz/spice/2026/09/appare-43c8.html",
+      "type": "radio",
+      "title": "ラジオの投稿を公開",
+      "detail": "",
+      "restricted": false
+    },
+    {
+      "date": "2026-09-28",
+      "member": "rei",
+      "name": "朝比奈れい",
+      "url": "https://appare-official.jp/member/contents/1114236",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
     {
       "date": "2026-09-28",
       "member": "risa",
