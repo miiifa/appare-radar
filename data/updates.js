@@ -1,13 +1,8 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-09-29",
-  "windowStart": "2026-08-30",
+  "checked": "2026-09-30",
+  "windowStart": "2026-08-31",
   "events": [
-    {
-      "date": "2026-09-29",
-      "title": "2026/9/29(火)【3rdメジャーシングルリリースイベント】@ららぽーと豊洲",
-      "url": "https://appare-official.jp/contents/1109935"
-    },
     {
       "date": "2026-09-30",
       "title": "2026/9/30(水)【3rdメジャーシングルリリースイベント】@イクスピアリ®︎ 2F セレブレーション・プラザ",
@@ -45,6 +40,11 @@ window.APPARE_UPDATES = {
     },
     {
       "date": "2026-10-24",
+      "title": "2026/10/24(土)『Appare!10周年・尚美学園100周年記念ライブ』出演決定！",
+      "url": "https://appare-official.jp/contents/1106207"
+    },
+    {
+      "date": "2026-10-24",
       "title": "2026/10/24(土)『HYPE IDOL！Halloween』出演決定！",
       "url": "https://appare-official.jp/contents/1108789"
     }
@@ -67,6 +67,15 @@ window.APPARE_UPDATES = {
     }
   ],
   "stories": [
+    {
+      "date": "2026-09-29",
+      "member": "ami",
+      "name": "橋本あみ",
+      "url": "https://appare-official.jp/member/contents/1114561",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
     {
       "date": "2026-09-29",
       "member": "rei",
@@ -341,15 +350,6 @@ window.APPARE_UPDATES = {
       "title": "ラジオの投稿を公開",
       "detail": "生誕祭の準備と、紫のマグネットネイルについて話した。",
       "restricted": false
-    },
-    {
-      "date": "2026-08-30",
-      "member": "natsu",
-      "name": "森川なつ",
-      "url": "https://appare-official.jp/member/contents/1105997",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
     }
   ]
 };
