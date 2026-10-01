@@ -1,13 +1,8 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-09-30",
-  "windowStart": "2026-08-31",
+  "checked": "2026-10-01",
+  "windowStart": "2026-09-01",
   "events": [
-    {
-      "date": "2026-09-30",
-      "title": "2026/9/30(水)【3rdメジャーシングルリリースイベント】@イクスピアリ®︎ 2F セレブレーション・プラザ",
-      "url": "https://appare-official.jp/contents/1108325"
-    },
     {
       "date": "2026-10-03",
       "title": "2026/10/3(土)『めいぽむのはっぴーらっきー☆彡すーぱーばーすでーぱーてぃー♡』",
@@ -47,6 +42,11 @@ window.APPARE_UPDATES = {
       "date": "2026-10-24",
       "title": "2026/10/24(土)『HYPE IDOL！Halloween』出演決定！",
       "url": "https://appare-official.jp/contents/1108789"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "2026/10/30(金)/31(土)/11/1(日)『IDOL HALLOWEEN JAPAN 2026 Supported by Malymoon』出演決定！",
+      "url": "https://appare-official.jp/contents/1109891"
     }
   ],
   "announcements": [
