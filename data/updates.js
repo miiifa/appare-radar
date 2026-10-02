@@ -1,7 +1,7 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-10-01",
-  "windowStart": "2026-09-01",
+  "checked": "2026-10-02",
+  "windowStart": "2026-09-02",
   "events": [
     {
       "date": "2026-10-03",
@@ -67,6 +67,15 @@ window.APPARE_UPDATES = {
     }
   ],
   "stories": [
+    {
+      "date": "2026-10-01",
+      "member": "mei",
+      "name": "藤宮めい",
+      "url": "https://appare-official.jp/member/contents/1115426",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
     {
       "date": "2026-09-29",
       "member": "ami",
@@ -322,34 +331,6 @@ window.APPARE_UPDATES = {
       "type": "fc_blog",
       "title": "FCブログを更新",
       "restricted": true
-    },
-    {
-      "date": "2026-09-01",
-      "member": "ami",
-      "name": "橋本あみ",
-      "url": "https://appare-official.jp/member/contents/1106799",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-09-01",
-      "member": "rei",
-      "name": "朝比奈れい",
-      "url": "https://appare-official.jp/member/contents/1106473",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-09-01",
-      "member": "amu",
-      "name": "北野あむ",
-      "url": "https://fmftp.lekumo.biz/spice/2026/09/appare-80e4.html",
-      "type": "radio",
-      "title": "ラジオの投稿を公開",
-      "detail": "生誕祭の準備と、紫のマグネットネイルについて話した。",
-      "restricted": false
     }
   ]
 };
