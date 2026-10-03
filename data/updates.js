@@ -1,7 +1,7 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-10-02",
-  "windowStart": "2026-09-02",
+  "checked": "2026-10-03",
+  "windowStart": "2026-09-03",
   "events": [
     {
       "date": "2026-10-03",
@@ -24,6 +24,11 @@ window.APPARE_UPDATES = {
       "url": "https://appare-official.jp/contents/1103790"
     },
     {
+      "date": "2026-10-17",
+      "title": "2026/10/17(土)『新横浜パフォーマンス2026』出演決定！",
+      "url": "https://appare-official.jp/contents/1115629"
+    },
+    {
       "date": "2026-10-18",
       "title": "2026/10/18(日) 『＆横アリ 其の一』開催決定！",
       "url": "https://appare-official.jp/contents/1110297"
@@ -42,11 +47,6 @@ window.APPARE_UPDATES = {
       "date": "2026-10-24",
       "title": "2026/10/24(土)『HYPE IDOL！Halloween』出演決定！",
       "url": "https://appare-official.jp/contents/1108789"
-    },
-    {
-      "date": "2026-10-24",
-      "title": "2026/10/30(金)/31(土)/11/1(日)『IDOL HALLOWEEN JAPAN 2026 Supported by Malymoon』出演決定！",
-      "url": "https://appare-official.jp/contents/1109891"
     }
   ],
   "announcements": [
