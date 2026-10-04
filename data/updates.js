@@ -1,13 +1,8 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-10-03",
-  "windowStart": "2026-09-03",
+  "checked": "2026-10-04",
+  "windowStart": "2026-09-04",
   "events": [
-    {
-      "date": "2026-10-03",
-      "title": "2026/10/3(土)『めいぽむのはっぴーらっきー☆彡すーぱーばーすでーぱーてぃー♡』",
-      "url": "https://appare-official.jp/contents/1106948"
-    },
     {
       "date": "2026-10-04",
       "title": "2026/10/4(日)【3rdメジャーシングルリリースイベント】@タワーレコード渋谷店 B1F CUTUP STUDIO",
@@ -47,6 +42,11 @@ window.APPARE_UPDATES = {
       "date": "2026-10-24",
       "title": "2026/10/24(土)『HYPE IDOL！Halloween』出演決定！",
       "url": "https://appare-official.jp/contents/1108789"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "2026/10/30(金)/31(土)/11/1(日)『IDOL HALLOWEEN JAPAN 2026 Supported by Malymoon』出演決定！",
+      "url": "https://appare-official.jp/contents/1109891"
     }
   ],
   "announcements": [
@@ -67,6 +67,15 @@ window.APPARE_UPDATES = {
     }
   ],
   "stories": [
+    {
+      "date": "2026-10-03",
+      "member": "suzu",
+      "name": "藍井すず",
+      "url": "https://appare-official.jp/member/contents/1115959",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
     {
       "date": "2026-10-01",
       "member": "mei",
@@ -319,15 +328,6 @@ window.APPARE_UPDATES = {
       "member": "natsu",
       "name": "森川なつ",
       "url": "https://appare-official.jp/member/contents/1108034",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-09-03",
-      "member": "mei",
-      "name": "藤宮めい",
-      "url": "https://appare-official.jp/member/contents/1107362",
       "type": "fc_blog",
       "title": "FCブログを更新",
       "restricted": true
