@@ -1,13 +1,8 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-10-04",
-  "windowStart": "2026-09-04",
+  "checked": "2026-10-05",
+  "windowStart": "2026-09-05",
   "events": [
-    {
-      "date": "2026-10-04",
-      "title": "2026/10/4(日)【3rdメジャーシングルリリースイベント】@タワーレコード渋谷店 B1F CUTUP STUDIO",
-      "url": "https://appare-official.jp/contents/1109936"
-    },
     {
       "date": "2026-10-06",
       "title": "2026/10/6(火)『TOKYO GIRLS GIRLS』出演決定！",
@@ -47,6 +42,11 @@ window.APPARE_UPDATES = {
       "date": "2026-10-24",
       "title": "2026/10/30(金)/31(土)/11/1(日)『IDOL HALLOWEEN JAPAN 2026 Supported by Malymoon』出演決定！",
       "url": "https://appare-official.jp/contents/1109891"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "2026/10/27(火)『Appare! HALLOWEEN FES. 2026』開催決定！",
+      "url": "https://appare-official.jp/contents/1111065"
     }
   ],
   "announcements": [
@@ -67,6 +67,33 @@ window.APPARE_UPDATES = {
     }
   ],
   "stories": [
+    {
+      "date": "2026-10-04",
+      "member": "amu",
+      "name": "北野あむ",
+      "url": "https://appare-official.jp/member/contents/1116174",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
+    {
+      "date": "2026-10-04",
+      "member": "risa",
+      "name": "坂本りさ",
+      "url": "https://appare-official.jp/member/contents/1116168",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
+    {
+      "date": "2026-10-04",
+      "member": "natsu",
+      "name": "森川なつ",
+      "url": "https://appare-official.jp/member/contents/1116156",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
     {
       "date": "2026-10-03",
       "member": "suzu",
