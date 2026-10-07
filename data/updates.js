@@ -1,13 +1,8 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-10-06",
-  "windowStart": "2026-09-06",
+  "checked": "2026-10-07",
+  "windowStart": "2026-09-07",
   "events": [
-    {
-      "date": "2026-10-06",
-      "title": "2026/10/6(火)『TOKYO GIRLS GIRLS』出演決定！",
-      "url": "https://appare-official.jp/contents/1100070"
-    },
     {
       "date": "2026-10-12",
       "title": "【ライブ】10/12(月祝)『VS横アリ 其の一』＠KT Zepp Yokohama",
@@ -47,6 +42,11 @@ window.APPARE_UPDATES = {
       "date": "2026-10-27",
       "title": "2026/10/27(火)『Appare! HALLOWEEN FES. 2026』開催決定！",
       "url": "https://appare-official.jp/contents/1111065"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "2026/11/3(火祝)『しゅわしゅわはじける夢の国♪』",
+      "url": "https://appare-official.jp/contents/1115968"
     }
   ],
   "announcements": [
@@ -67,6 +67,15 @@ window.APPARE_UPDATES = {
     }
   ],
   "stories": [
+    {
+      "date": "2026-10-07",
+      "member": "ami",
+      "name": "橋本あみ",
+      "url": "https://appare-official.jp/member/contents/1116835",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
     {
       "date": "2026-10-06",
       "member": "rei",
@@ -340,33 +349,6 @@ window.APPARE_UPDATES = {
       "title": "ラジオの投稿を公開",
       "detail": "最近ハマった塩パンと、好みの食感について話した。",
       "restricted": false
-    },
-    {
-      "date": "2026-09-06",
-      "member": "amu",
-      "name": "北野あむ",
-      "url": "https://appare-official.jp/member/contents/1108058",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-09-06",
-      "member": "risa",
-      "name": "坂本りさ",
-      "url": "https://appare-official.jp/member/contents/1108036",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-09-06",
-      "member": "natsu",
-      "name": "森川なつ",
-      "url": "https://appare-official.jp/member/contents/1108034",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
     }
   ]
 };
