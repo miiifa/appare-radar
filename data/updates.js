@@ -1,8 +1,13 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-10-07",
-  "windowStart": "2026-09-07",
+  "checked": "2026-10-08",
+  "windowStart": "2026-09-08",
   "events": [
+    {
+      "date": "2026-10-11",
+      "title": "東京ヴェルディ×サンフレッチェ広島戦に登場！",
+      "url": "https://appare-official.jp/contents/1117081"
+    },
     {
       "date": "2026-10-12",
       "title": "【ライブ】10/12(月祝)『VS横アリ 其の一』＠KT Zepp Yokohama",
@@ -30,26 +35,26 @@ window.APPARE_UPDATES = {
     },
     {
       "date": "2026-10-24",
-      "title": "2026/10/24(土)『HYPE IDOL！Halloween』出演決定！",
-      "url": "https://appare-official.jp/contents/1108789"
+      "title": "2026/10/30(金)/31(土)/11/1(日)『IDOL HALLOWEEN JAPAN 2026 Supported by Malymoon』出演決定！",
+      "url": "https://appare-official.jp/contents/1109891"
     },
     {
       "date": "2026-10-24",
-      "title": "2026/10/30(金)/31(土)/11/1(日)『IDOL HALLOWEEN JAPAN 2026 Supported by Malymoon』出演決定！",
-      "url": "https://appare-official.jp/contents/1109891"
+      "title": "2026/10/24(土)『HYPE IDOL！Halloween』出演決定！",
+      "url": "https://appare-official.jp/contents/1108789"
     },
     {
       "date": "2026-10-27",
       "title": "2026/10/27(火)『Appare! HALLOWEEN FES. 2026』開催決定！",
       "url": "https://appare-official.jp/contents/1111065"
-    },
-    {
-      "date": "2026-11-03",
-      "title": "2026/11/3(火祝)『しゅわしゅわはじける夢の国♪』",
-      "url": "https://appare-official.jp/contents/1115968"
     }
   ],
   "announcements": [
+    {
+      "date": "2026-10-07",
+      "title": "『FCイベントAppare!HALLOWEEN 2026〜今夜は仮装で大集合！SP〜』FC先行",
+      "url": "https://appare-official.jp/contents/1116847"
+    },
     {
       "date": "2026-09-24",
       "title": "第11回あつぎミュージックフェスティバル Supported by オーイズミグループ FC先行",
