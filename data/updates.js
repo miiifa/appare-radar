@@ -1,7 +1,7 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-10-08",
-  "windowStart": "2026-09-08",
+  "checked": "2026-10-09",
+  "windowStart": "2026-09-09",
   "events": [
     {
       "date": "2026-10-11",
@@ -51,6 +51,11 @@ window.APPARE_UPDATES = {
   ],
   "announcements": [
     {
+      "date": "2026-10-08",
+      "title": "【お知らせ】横浜アリーナまでの道のりを、みんなと。『夢パスポート』配布決定！",
+      "url": "https://appare-official.jp/contents/1117320"
+    },
+    {
       "date": "2026-10-07",
       "title": "『FCイベントAppare!HALLOWEEN 2026〜今夜は仮装で大集合！SP〜』FC先行",
       "url": "https://appare-official.jp/contents/1116847"
@@ -72,6 +77,15 @@ window.APPARE_UPDATES = {
     }
   ],
   "stories": [
+    {
+      "date": "2026-10-08",
+      "member": "mei",
+      "name": "藤宮めい",
+      "url": "https://appare-official.jp/member/contents/1117394",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
     {
       "date": "2026-10-07",
       "member": "ami",
@@ -335,25 +349,6 @@ window.APPARE_UPDATES = {
       "type": "fc_blog",
       "title": "FCブログを更新",
       "restricted": true
-    },
-    {
-      "date": "2026-09-08",
-      "member": "ami",
-      "name": "橋本あみ",
-      "url": "https://appare-official.jp/member/contents/1108625",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-09-08",
-      "member": "risa",
-      "name": "坂本りさ",
-      "url": "https://fmftp.lekumo.biz/spice/2026/09/appare-aa8d.html",
-      "type": "radio",
-      "title": "ラジオの投稿を公開",
-      "detail": "最近ハマった塩パンと、好みの食感について話した。",
-      "restricted": false
     }
   ]
 };
