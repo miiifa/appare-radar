@@ -1,7 +1,7 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-10-09",
-  "windowStart": "2026-09-09",
+  "checked": "2026-10-10",
+  "windowStart": "2026-09-10",
   "events": [
     {
       "date": "2026-10-11",
@@ -69,11 +69,6 @@ window.APPARE_UPDATES = {
       "date": "2026-09-23",
       "title": "【お知らせ】2026/9/26(土)『 Appare!ユニコーン祭り♡』",
       "url": "https://appare-official.jp/contents/1112595"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "９月ファンクラブキャンペーン「竹の子族キャンペーン」開催のお知らせ！",
-      "url": "https://appare-official.jp/contents/1108674"
     }
   ],
   "stories": [
