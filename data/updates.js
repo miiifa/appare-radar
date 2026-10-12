@@ -1,13 +1,8 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-10-11",
-  "windowStart": "2026-09-11",
+  "checked": "2026-10-12",
+  "windowStart": "2026-09-12",
   "events": [
-    {
-      "date": "2026-10-11",
-      "title": "東京ヴェルディ×サンフレッチェ広島戦に登場！",
-      "url": "https://appare-official.jp/contents/1117081"
-    },
     {
       "date": "2026-10-12",
       "title": "【ライブ】10/12(月祝)『VS横アリ 其の一』＠KT Zepp Yokohama",
@@ -35,18 +30,23 @@ window.APPARE_UPDATES = {
     },
     {
       "date": "2026-10-24",
-      "title": "2026/10/30(金)/31(土)/11/1(日)『IDOL HALLOWEEN JAPAN 2026 Supported by Malymoon』出演決定！",
-      "url": "https://appare-official.jp/contents/1109891"
+      "title": "2026/10/24(土)『HYPE IDOL！Halloween』出演決定！",
+      "url": "https://appare-official.jp/contents/1108789"
     },
     {
       "date": "2026-10-24",
-      "title": "2026/10/24(土)『HYPE IDOL！Halloween』出演決定！",
-      "url": "https://appare-official.jp/contents/1108789"
+      "title": "2026/10/30(金)/31(土)/11/1(日)『IDOL HALLOWEEN JAPAN 2026 Supported by Malymoon』出演決定！",
+      "url": "https://appare-official.jp/contents/1109891"
     },
     {
       "date": "2026-10-27",
       "title": "2026/10/27(火)『Appare! HALLOWEEN FES. 2026』開催決定！",
       "url": "https://appare-official.jp/contents/1111065"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "【ライブ】10/29(木)『FCイベントAppare!HALLOWEEN 2026〜今夜は仮装で大集合！SP〜』＠渋谷 CLUB QUATTRO",
+      "url": "https://appare-official.jp/contents/1116529"
     }
   ],
   "announcements": [
@@ -72,6 +72,42 @@ window.APPARE_UPDATES = {
     }
   ],
   "stories": [
+    {
+      "date": "2026-10-11",
+      "member": "yume",
+      "name": "永堀ゆめ",
+      "url": "https://appare-official.jp/member/contents/1118160",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
+    {
+      "date": "2026-10-11",
+      "member": "risa",
+      "name": "坂本りさ",
+      "url": "https://appare-official.jp/member/contents/1118129",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
+    {
+      "date": "2026-10-11",
+      "member": "amu",
+      "name": "北野あむ",
+      "url": "https://appare-official.jp/member/contents/1118124",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
+    {
+      "date": "2026-10-11",
+      "member": "natsu",
+      "name": "森川なつ",
+      "url": "https://appare-official.jp/member/contents/1118092",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
     {
       "date": "2026-10-10",
       "member": "suzu",
