@@ -1,13 +1,8 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-10-12",
-  "windowStart": "2026-09-12",
+  "checked": "2026-10-13",
+  "windowStart": "2026-09-13",
   "events": [
-    {
-      "date": "2026-10-12",
-      "title": "【ライブ】10/12(月祝)『VS横アリ 其の一』＠KT Zepp Yokohama",
-      "url": "https://appare-official.jp/contents/1103790"
-    },
     {
       "date": "2026-10-17",
       "title": "2026/10/17(土)『新横浜パフォーマンス2026』出演決定！",
@@ -47,6 +42,11 @@ window.APPARE_UPDATES = {
       "date": "2026-10-29",
       "title": "【ライブ】10/29(木)『FCイベントAppare!HALLOWEEN 2026〜今夜は仮装で大集合！SP〜』＠渋谷 CLUB QUATTRO",
       "url": "https://appare-official.jp/contents/1116529"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "2026/11/3(火祝)『しゅわしゅわはじける夢の国♪』",
+      "url": "https://appare-official.jp/contents/1115968"
     }
   ],
   "announcements": [
@@ -72,6 +72,15 @@ window.APPARE_UPDATES = {
     }
   ],
   "stories": [
+    {
+      "date": "2026-10-12",
+      "member": "rei",
+      "name": "朝比奈れい",
+      "url": "https://appare-official.jp/member/contents/1118309",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
     {
       "date": "2026-10-11",
       "member": "yume",
@@ -368,15 +377,6 @@ window.APPARE_UPDATES = {
       "member": "natsu",
       "name": "森川なつ",
       "url": "https://appare-official.jp/member/contents/1109906",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-09-12",
-      "member": "suzu",
-      "name": "藍井すず",
-      "url": "https://appare-official.jp/member/contents/1109801",
       "type": "fc_blog",
       "title": "FCブログを更新",
       "restricted": true
