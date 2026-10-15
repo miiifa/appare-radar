@@ -1,7 +1,7 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-10-14",
-  "windowStart": "2026-09-14",
+  "checked": "2026-10-15",
+  "windowStart": "2026-09-15",
   "events": [
     {
       "date": "2026-10-17",
@@ -353,15 +353,6 @@ window.APPARE_UPDATES = {
       "title": "ラジオの投稿を公開",
       "detail": "藍井すずとの収録後の食事や、乃木坂46の曲で好きな部分を紹介。",
       "restricted": false
-    },
-    {
-      "date": "2026-09-14",
-      "member": "rei",
-      "name": "朝比奈れい",
-      "url": "https://appare-official.jp/member/contents/1110277",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
     }
   ]
 };
