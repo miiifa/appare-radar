@@ -1,7 +1,7 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-10-15",
-  "windowStart": "2026-09-15",
+  "checked": "2026-10-16",
+  "windowStart": "2026-09-16",
   "events": [
     {
       "date": "2026-10-17",
@@ -25,13 +25,13 @@ window.APPARE_UPDATES = {
     },
     {
       "date": "2026-10-24",
-      "title": "2026/10/24(土)『HYPE IDOL！Halloween』出演決定！",
-      "url": "https://appare-official.jp/contents/1108789"
+      "title": "2026/10/30(金)/31(土)/11/1(日)『IDOL HALLOWEEN JAPAN 2026 Supported by Malymoon』出演決定！",
+      "url": "https://appare-official.jp/contents/1109891"
     },
     {
       "date": "2026-10-24",
-      "title": "2026/10/30(金)/31(土)/11/1(日)『IDOL HALLOWEEN JAPAN 2026 Supported by Malymoon』出演決定！",
-      "url": "https://appare-official.jp/contents/1109891"
+      "title": "2026/10/24(土)『HYPE IDOL！Halloween』出演決定！",
+      "url": "https://appare-official.jp/contents/1108789"
     },
     {
       "date": "2026-10-27",
@@ -50,6 +50,11 @@ window.APPARE_UPDATES = {
     }
   ],
   "announcements": [
+    {
+      "date": "2026-10-15",
+      "title": "2026/10/25(日)【MV公開記念！ 『骨格アイドル♡虹べユニコーン』リリースイベント追加公演】@お台場HADOARENA",
+      "url": "https://appare-official.jp/contents/1119343"
+    },
     {
       "date": "2026-10-08",
       "title": "【お知らせ】横浜アリーナまでの道のりを、みんなと。『夢パスポート』配布決定！",
@@ -72,6 +77,15 @@ window.APPARE_UPDATES = {
     }
   ],
   "stories": [
+    {
+      "date": "2026-10-15",
+      "member": "mei",
+      "name": "藤宮めい",
+      "url": "https://appare-official.jp/member/contents/1119417",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
     {
       "date": "2026-10-13",
       "member": "ami",
@@ -334,25 +348,6 @@ window.APPARE_UPDATES = {
       "type": "fc_blog",
       "title": "FCブログを更新",
       "restricted": true
-    },
-    {
-      "date": "2026-09-15",
-      "member": "ami",
-      "name": "橋本あみ",
-      "url": "https://appare-official.jp/member/contents/1110657",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-09-15",
-      "member": "rea",
-      "name": "七瀬れあ",
-      "url": "https://fmftp.lekumo.biz/spice/2026/09/appare-dc00.html",
-      "type": "radio",
-      "title": "ラジオの投稿を公開",
-      "detail": "藍井すずとの収録後の食事や、乃木坂46の曲で好きな部分を紹介。",
-      "restricted": false
     }
   ]
 };
