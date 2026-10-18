@@ -1,13 +1,8 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-10-17",
-  "windowStart": "2026-09-17",
+  "checked": "2026-10-18",
+  "windowStart": "2026-09-18",
   "events": [
-    {
-      "date": "2026-10-17",
-      "title": "2026/10/17(土)『新横浜パフォーマンス2026』出演決定！",
-      "url": "https://appare-official.jp/contents/1115629"
-    },
     {
       "date": "2026-10-18",
       "title": "2026/10/18(日) 『＆横アリ 其の一』開催決定！",
@@ -25,13 +20,13 @@ window.APPARE_UPDATES = {
     },
     {
       "date": "2026-10-24",
-      "title": "2026/10/30(金)/31(土)/11/1(日)『IDOL HALLOWEEN JAPAN 2026 Supported by Malymoon』出演決定！",
-      "url": "https://appare-official.jp/contents/1109891"
+      "title": "2026/10/24(土)『HYPE IDOL！Halloween』出演決定！",
+      "url": "https://appare-official.jp/contents/1108789"
     },
     {
       "date": "2026-10-24",
-      "title": "2026/10/24(土)『HYPE IDOL！Halloween』出演決定！",
-      "url": "https://appare-official.jp/contents/1108789"
+      "title": "2026/10/30(金)/31(土)/11/1(日)『IDOL HALLOWEEN JAPAN 2026 Supported by Malymoon』出演決定！",
+      "url": "https://appare-official.jp/contents/1109891"
     },
     {
       "date": "2026-10-27",
@@ -47,6 +42,11 @@ window.APPARE_UPDATES = {
       "date": "2026-11-03",
       "title": "2026/11/3(火祝)『しゅわしゅわはじける夢の国♪』",
       "url": "https://appare-official.jp/contents/1115968"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "2026/11/5(木) Devil ANTHEM. presents 『でびぱっぱ Road to 幕張イベントホール』出演決定！",
+      "url": "https://appare-official.jp/contents/1107630"
     }
   ],
   "announcements": [
@@ -77,6 +77,15 @@ window.APPARE_UPDATES = {
     }
   ],
   "stories": [
+    {
+      "date": "2026-10-17",
+      "member": "suzu",
+      "name": "藍井すず",
+      "url": "https://appare-official.jp/member/contents/1119994",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
     {
       "date": "2026-10-15",
       "member": "mei",
@@ -336,15 +345,6 @@ window.APPARE_UPDATES = {
       "member": "rea",
       "name": "七瀬れあ",
       "url": "https://appare-official.jp/member/contents/1111752",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-09-17",
-      "member": "mei",
-      "name": "藤宮めい",
-      "url": "https://appare-official.jp/member/contents/1111709",
       "type": "fc_blog",
       "title": "FCブログを更新",
       "restricted": true
