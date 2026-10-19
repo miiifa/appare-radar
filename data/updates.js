@@ -1,13 +1,8 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-10-18",
-  "windowStart": "2026-09-18",
+  "checked": "2026-10-19",
+  "windowStart": "2026-09-19",
   "events": [
-    {
-      "date": "2026-10-18",
-      "title": "2026/10/18(日) 『＆横アリ 其の一』開催決定！",
-      "url": "https://appare-official.jp/contents/1110297"
-    },
     {
       "date": "2026-10-21",
       "title": "2026/10/21(水)『iLiVE! HALLOWEEN』出演決定！",
@@ -47,6 +42,11 @@ window.APPARE_UPDATES = {
       "date": "2026-11-05",
       "title": "2026/11/5(木) Devil ANTHEM. presents 『でびぱっぱ Road to 幕張イベントホール』出演決定！",
       "url": "https://appare-official.jp/contents/1107630"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "2026/11/7(土)『I Dish Fes 2026』出演決定！",
+      "url": "https://appare-official.jp/contents/1116401"
     }
   ],
   "announcements": [
@@ -77,6 +77,33 @@ window.APPARE_UPDATES = {
     }
   ],
   "stories": [
+    {
+      "date": "2026-10-18",
+      "member": "amu",
+      "name": "北野あむ",
+      "url": "https://appare-official.jp/member/contents/1120165",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
+    {
+      "date": "2026-10-18",
+      "member": "risa",
+      "name": "坂本りさ",
+      "url": "https://appare-official.jp/member/contents/1120164",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
+    {
+      "date": "2026-10-18",
+      "member": "natsu",
+      "name": "森川なつ",
+      "url": "https://appare-official.jp/member/contents/1120151",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
     {
       "date": "2026-10-17",
       "member": "suzu",
@@ -336,15 +363,6 @@ window.APPARE_UPDATES = {
       "member": "suzu",
       "name": "藍井すず",
       "url": "https://appare-official.jp/member/contents/1111912",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-09-18",
-      "member": "rea",
-      "name": "七瀬れあ",
-      "url": "https://appare-official.jp/member/contents/1111752",
       "type": "fc_blog",
       "title": "FCブログを更新",
       "restricted": true
