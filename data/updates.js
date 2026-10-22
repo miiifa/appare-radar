@@ -1,13 +1,8 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-10-21",
-  "windowStart": "2026-09-21",
+  "checked": "2026-10-22",
+  "windowStart": "2026-09-22",
   "events": [
-    {
-      "date": "2026-10-21",
-      "title": "2026/10/21(水)『iLiVE! HALLOWEEN』出演決定！",
-      "url": "https://appare-official.jp/contents/1112919"
-    },
     {
       "date": "2026-10-24",
       "title": "2026/10/24(土)『Appare!10周年・尚美学園100周年記念ライブ』出演決定！",
@@ -20,7 +15,7 @@ window.APPARE_UPDATES = {
     },
     {
       "date": "2026-10-27",
-      "title": "2026/10/27(火)『Appare! HALLOWEEN FES. 2026』開催決定！",
+      "title": "2026/10/27(火)『Appare! HALLOWEEN FES. 2026 supported by Pococha』開催決定！",
       "url": "https://appare-official.jp/contents/1111065"
     },
     {
@@ -47,9 +42,19 @@ window.APPARE_UPDATES = {
       "date": "2026-11-07",
       "title": "2026/11/7(土)『I Dish Fes 2026』出演決定！",
       "url": "https://appare-official.jp/contents/1116401"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "2026/11/7(土) 『＆横アリ大阪編〜桶狭間の戦い〜』開催決定！",
+      "url": "https://appare-official.jp/contents/1118899"
     }
   ],
   "announcements": [
+    {
+      "date": "2026-10-21",
+      "title": "【お知らせ】「かながわ部活応援チャンネル」2026テーマソング決定！",
+      "url": "https://appare-official.jp/contents/1121010"
+    },
     {
       "date": "2026-10-15",
       "title": "2026/10/25(日)【MV公開記念！ 『骨格アイドル♡虹べユニコーン』リリースイベント追加公演】@お台場HADOARENA",
@@ -339,15 +344,6 @@ window.APPARE_UPDATES = {
       "title": "ラジオの投稿を公開",
       "detail": "番組からの卒業と、横浜アリーナ公演に向けた思いを話した。",
       "restricted": false
-    },
-    {
-      "date": "2026-09-21",
-      "member": "rei",
-      "name": "朝比奈れい",
-      "url": "https://appare-official.jp/member/contents/1112279",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
     }
   ]
 };
