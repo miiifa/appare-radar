@@ -1,7 +1,7 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-10-22",
-  "windowStart": "2026-09-22",
+  "checked": "2026-10-23",
+  "windowStart": "2026-09-23",
   "events": [
     {
       "date": "2026-10-24",
@@ -12,6 +12,11 @@ window.APPARE_UPDATES = {
       "date": "2026-10-24",
       "title": "2026/10/24(土)『HYPE IDOL！Halloween』出演決定！",
       "url": "https://appare-official.jp/contents/1108789"
+    },
+    {
+      "date": "2026-10-25",
+      "title": "2026/10/25(日)【MV公開記念！ 『骨格アイドル♡虹べユニコーン』リリースイベント追加公演】@お台場HADOARENA",
+      "url": "https://appare-official.jp/contents/1119343"
     },
     {
       "date": "2026-10-27",
@@ -42,11 +47,6 @@ window.APPARE_UPDATES = {
       "date": "2026-11-07",
       "title": "2026/11/7(土)『I Dish Fes 2026』出演決定！",
       "url": "https://appare-official.jp/contents/1116401"
-    },
-    {
-      "date": "2026-11-07",
-      "title": "2026/11/7(土) 『＆横アリ大阪編〜桶狭間の戦い〜』開催決定！",
-      "url": "https://appare-official.jp/contents/1118899"
     }
   ],
   "announcements": [
@@ -54,11 +54,6 @@ window.APPARE_UPDATES = {
       "date": "2026-10-21",
       "title": "【お知らせ】「かながわ部活応援チャンネル」2026テーマソング決定！",
       "url": "https://appare-official.jp/contents/1121010"
-    },
-    {
-      "date": "2026-10-15",
-      "title": "2026/10/25(日)【MV公開記念！ 『骨格アイドル♡虹べユニコーン』リリースイベント追加公演】@お台場HADOARENA",
-      "url": "https://appare-official.jp/contents/1119343"
     },
     {
       "date": "2026-10-08",
@@ -82,6 +77,15 @@ window.APPARE_UPDATES = {
     }
   ],
   "stories": [
+    {
+      "date": "2026-10-22",
+      "member": "mei",
+      "name": "藤宮めい",
+      "url": "https://appare-official.jp/member/contents/1121394",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
     {
       "date": "2026-10-20",
       "member": "ami",
@@ -334,16 +338,6 @@ window.APPARE_UPDATES = {
       "type": "fc_blog",
       "title": "FCブログを更新",
       "restricted": true
-    },
-    {
-      "date": "2026-09-22",
-      "member": "suzu",
-      "name": "藍井すず",
-      "url": "https://fmftp.lekumo.biz/spice/2026/09/appare-c4c7.html",
-      "type": "radio",
-      "title": "ラジオの投稿を公開",
-      "detail": "番組からの卒業と、横浜アリーナ公演に向けた思いを話した。",
-      "restricted": false
     }
   ]
 };
