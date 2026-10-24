@@ -1,17 +1,17 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-10-23",
-  "windowStart": "2026-09-23",
+  "checked": "2026-10-24",
+  "windowStart": "2026-09-24",
   "events": [
-    {
-      "date": "2026-10-24",
-      "title": "2026/10/24(土)『Appare!10周年・尚美学園100周年記念ライブ』出演決定！",
-      "url": "https://appare-official.jp/contents/1106207"
-    },
     {
       "date": "2026-10-24",
       "title": "2026/10/24(土)『HYPE IDOL！Halloween』出演決定！",
       "url": "https://appare-official.jp/contents/1108789"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "2026/10/24(土)『Appare!10周年・尚美学園100周年記念ライブ』出演決定！",
+      "url": "https://appare-official.jp/contents/1106207"
     },
     {
       "date": "2026-10-25",
@@ -69,14 +69,27 @@ window.APPARE_UPDATES = {
       "date": "2026-09-24",
       "title": "第11回あつぎミュージックフェスティバル Supported by オーイズミグループ FC先行",
       "url": "https://appare-official.jp/contents/1111956"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "【お知らせ】2026/9/26(土)『 Appare!ユニコーン祭り♡』",
-      "url": "https://appare-official.jp/contents/1112595"
     }
   ],
   "stories": [
+    {
+      "date": "2026-10-23",
+      "member": "yume",
+      "name": "永堀ゆめ",
+      "url": "https://appare-official.jp/member/contents/1121711",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
+    {
+      "date": "2026-10-23",
+      "member": "rea",
+      "name": "七瀬れあ",
+      "url": "https://appare-official.jp/member/contents/1121699",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
     {
       "date": "2026-10-22",
       "member": "mei",
@@ -326,15 +339,6 @@ window.APPARE_UPDATES = {
       "member": "mei",
       "name": "藤宮めい",
       "url": "https://appare-official.jp/member/contents/1112965",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-09-23",
-      "member": "ami",
-      "name": "橋本あみ",
-      "url": "https://appare-official.jp/member/contents/1112580",
       "type": "fc_blog",
       "title": "FCブログを更新",
       "restricted": true
