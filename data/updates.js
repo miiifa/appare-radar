@@ -1,18 +1,8 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-10-24",
-  "windowStart": "2026-09-24",
+  "checked": "2026-10-25",
+  "windowStart": "2026-09-25",
   "events": [
-    {
-      "date": "2026-10-24",
-      "title": "2026/10/24(土)『HYPE IDOL！Halloween』出演決定！",
-      "url": "https://appare-official.jp/contents/1108789"
-    },
-    {
-      "date": "2026-10-24",
-      "title": "2026/10/24(土)『Appare!10周年・尚美学園100周年記念ライブ』出演決定！",
-      "url": "https://appare-official.jp/contents/1106207"
-    },
     {
       "date": "2026-10-25",
       "title": "2026/10/25(日)【MV公開記念！ 『骨格アイドル♡虹べユニコーン』リリースイベント追加公演】@お台場HADOARENA",
@@ -47,6 +37,16 @@ window.APPARE_UPDATES = {
       "date": "2026-11-07",
       "title": "2026/11/7(土)『I Dish Fes 2026』出演決定！",
       "url": "https://appare-official.jp/contents/1116401"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "2026/11/7(土) 『＆横アリ大阪編〜桶狭間の戦い〜』開催決定！",
+      "url": "https://appare-official.jp/contents/1118899"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "2026/11/12(木)NEO JAPONISM主催公演 『KASSEN』出演決定！",
+      "url": "https://appare-official.jp/contents/1121373"
     }
   ],
   "announcements": [
@@ -64,14 +64,18 @@ window.APPARE_UPDATES = {
       "date": "2026-10-07",
       "title": "『FCイベントAppare!HALLOWEEN 2026〜今夜は仮装で大集合！SP〜』FC先行",
       "url": "https://appare-official.jp/contents/1116847"
-    },
-    {
-      "date": "2026-09-24",
-      "title": "第11回あつぎミュージックフェスティバル Supported by オーイズミグループ FC先行",
-      "url": "https://appare-official.jp/contents/1111956"
     }
   ],
   "stories": [
+    {
+      "date": "2026-10-24",
+      "member": "suzu",
+      "name": "藍井すず",
+      "url": "https://appare-official.jp/member/contents/1121926",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
     {
       "date": "2026-10-23",
       "member": "yume",
@@ -330,15 +334,6 @@ window.APPARE_UPDATES = {
       "member": "amu",
       "name": "北野あむ",
       "url": "https://appare-official.jp/member/contents/1113775",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-09-24",
-      "member": "mei",
-      "name": "藤宮めい",
-      "url": "https://appare-official.jp/member/contents/1112965",
       "type": "fc_blog",
       "title": "FCブログを更新",
       "restricted": true
