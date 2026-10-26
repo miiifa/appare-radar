@@ -1,13 +1,8 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-10-25",
-  "windowStart": "2026-09-25",
+  "checked": "2026-10-26",
+  "windowStart": "2026-09-26",
   "events": [
-    {
-      "date": "2026-10-25",
-      "title": "2026/10/25(日)【MV公開記念！ 『骨格アイドル♡虹べユニコーン』リリースイベント追加公演】@お台場HADOARENA",
-      "url": "https://appare-official.jp/contents/1119343"
-    },
     {
       "date": "2026-10-27",
       "title": "2026/10/27(火)『Appare! HALLOWEEN FES. 2026 supported by Pococha』開催決定！",
@@ -47,6 +42,11 @@ window.APPARE_UPDATES = {
       "date": "2026-11-12",
       "title": "2026/11/12(木)NEO JAPONISM主催公演 『KASSEN』出演決定！",
       "url": "https://appare-official.jp/contents/1121373"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "2026/11/17(火)『shibuya luisant Vol.61』出演決定！",
+      "url": "https://appare-official.jp/contents/1121592"
     }
   ],
   "announcements": [
@@ -67,6 +67,33 @@ window.APPARE_UPDATES = {
     }
   ],
   "stories": [
+    {
+      "date": "2026-10-25",
+      "member": "amu",
+      "name": "北野あむ",
+      "url": "https://appare-official.jp/member/contents/1122120",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
+    {
+      "date": "2026-10-25",
+      "member": "risa",
+      "name": "坂本りさ",
+      "url": "https://appare-official.jp/member/contents/1122069",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
+    {
+      "date": "2026-10-25",
+      "member": "natsu",
+      "name": "森川なつ",
+      "url": "https://appare-official.jp/member/contents/1122046",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
     {
       "date": "2026-10-24",
       "member": "suzu",
