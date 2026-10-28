@@ -1,13 +1,8 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-10-27",
-  "windowStart": "2026-09-27",
+  "checked": "2026-10-28",
+  "windowStart": "2026-09-28",
   "events": [
-    {
-      "date": "2026-10-27",
-      "title": "2026/10/27(火)『Appare! HALLOWEEN FES. 2026 supported by Pococha』開催決定！",
-      "url": "https://appare-official.jp/contents/1111065"
-    },
     {
       "date": "2026-10-29",
       "title": "【ライブ】10/29(木)『FCイベントAppare!HALLOWEEN 2026〜今夜は仮装で大集合！SP〜』＠渋谷 CLUB QUATTRO",
@@ -47,6 +42,11 @@ window.APPARE_UPDATES = {
       "date": "2026-11-17",
       "title": "2026/11/17(火)『shibuya luisant Vol.61』出演決定！",
       "url": "https://appare-official.jp/contents/1121592"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "2026/11/21(土)22(日)わーすたpresents 『にゃんぽこらフェス！vol.3』出演決定！",
+      "url": "https://appare-official.jp/contents/1115589"
     }
   ],
   "announcements": [
@@ -67,6 +67,15 @@ window.APPARE_UPDATES = {
     }
   ],
   "stories": [
+    {
+      "date": "2026-10-27",
+      "member": "ami",
+      "name": "橋本あみ",
+      "url": "https://appare-official.jp/member/contents/1122740",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
     {
       "date": "2026-10-25",
       "member": "amu",
@@ -352,15 +361,6 @@ window.APPARE_UPDATES = {
       "member": "risa",
       "name": "坂本りさ",
       "url": "https://appare-official.jp/member/contents/1113812",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-09-27",
-      "member": "amu",
-      "name": "北野あむ",
-      "url": "https://appare-official.jp/member/contents/1113775",
       "type": "fc_blog",
       "title": "FCブログを更新",
       "restricted": true
