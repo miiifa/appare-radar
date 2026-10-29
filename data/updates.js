@@ -1,11 +1,11 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-10-28",
-  "windowStart": "2026-09-28",
+  "checked": "2026-10-29",
+  "windowStart": "2026-09-29",
   "events": [
     {
       "date": "2026-10-29",
-      "title": "【ライブ】10/29(木)『FCイベントAppare!HALLOWEEN 2026〜今夜は仮装で大集合！SP〜』＠渋谷 CLUB QUATTRO",
+      "title": "2026/10/29(土) FCイベント『Appare!HALLOWEEN 2026～今夜は仮装で大集合！SP～』",
       "url": "https://appare-official.jp/contents/1116529"
     },
     {
@@ -346,24 +346,6 @@ window.APPARE_UPDATES = {
       "title": "ラジオの投稿を公開",
       "detail": "",
       "restricted": false
-    },
-    {
-      "date": "2026-09-28",
-      "member": "rei",
-      "name": "朝比奈れい",
-      "url": "https://appare-official.jp/member/contents/1114236",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-09-28",
-      "member": "risa",
-      "name": "坂本りさ",
-      "url": "https://appare-official.jp/member/contents/1113812",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
     }
   ]
 };
