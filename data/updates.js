@@ -1,13 +1,8 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-10-29",
-  "windowStart": "2026-09-29",
+  "checked": "2026-10-30",
+  "windowStart": "2026-09-30",
   "events": [
-    {
-      "date": "2026-10-29",
-      "title": "2026/10/29(土) FCイベント『Appare!HALLOWEEN 2026～今夜は仮装で大集合！SP～』",
-      "url": "https://appare-official.jp/contents/1116529"
-    },
     {
       "date": "2026-10-31",
       "title": "2026/10/30(金)/31(土)/11/1(日)『IDOL HALLOWEEN JAPAN 2026 Supported by Malymoon』出演決定！",
@@ -39,6 +34,11 @@ window.APPARE_UPDATES = {
       "url": "https://appare-official.jp/contents/1121373"
     },
     {
+      "date": "2026-11-14",
+      "title": "2026/11/14(土) 『天祭 -TENSAI-』出演決定！",
+      "url": "https://appare-official.jp/contents/1123262"
+    },
+    {
       "date": "2026-11-17",
       "title": "2026/11/17(火)『shibuya luisant Vol.61』出演決定！",
       "url": "https://appare-official.jp/contents/1121592"
@@ -67,6 +67,15 @@ window.APPARE_UPDATES = {
     }
   ],
   "stories": [
+    {
+      "date": "2026-10-30",
+      "member": "mei",
+      "name": "藤宮めい",
+      "url": "https://appare-official.jp/member/contents/1123511",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
     {
       "date": "2026-10-27",
       "member": "ami",
@@ -327,25 +336,6 @@ window.APPARE_UPDATES = {
       "type": "fc_blog",
       "title": "FCブログを更新",
       "restricted": true
-    },
-    {
-      "date": "2026-09-29",
-      "member": "ami",
-      "name": "橋本あみ",
-      "url": "https://appare-official.jp/member/contents/1114561",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-09-29",
-      "member": "rei",
-      "name": "朝比奈れい",
-      "url": "https://fmftp.lekumo.biz/spice/2026/09/appare-43c8.html",
-      "type": "radio",
-      "title": "ラジオの投稿を公開",
-      "detail": "",
-      "restricted": false
     }
   ]
 };
