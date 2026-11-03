@@ -1,7 +1,7 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-11-02",
-  "windowStart": "2026-10-03",
+  "checked": "2026-11-03",
+  "windowStart": "2026-10-04",
   "events": [
     {
       "date": "2026-11-03",
@@ -15,13 +15,13 @@ window.APPARE_UPDATES = {
     },
     {
       "date": "2026-11-07",
-      "title": "2026/11/7(土) 『＆横アリ大阪編〜桶狭間の戦い〜』開催決定！",
-      "url": "https://appare-official.jp/contents/1118899"
+      "title": "2026/11/7(土)『I Dish Fes 2026』出演決定！",
+      "url": "https://appare-official.jp/contents/1116401"
     },
     {
       "date": "2026-11-07",
-      "title": "2026/11/7(土)『I Dish Fes 2026』出演決定！",
-      "url": "https://appare-official.jp/contents/1116401"
+      "title": "2026/11/7(土) 『＆横アリ大阪編〜桶狭間の戦い〜』開催決定！",
+      "url": "https://appare-official.jp/contents/1118899"
     },
     {
       "date": "2026-11-12",
@@ -67,6 +67,15 @@ window.APPARE_UPDATES = {
     }
   ],
   "stories": [
+    {
+      "date": "2026-11-02",
+      "member": "yume",
+      "name": "永堀ゆめ",
+      "url": "https://appare-official.jp/member/contents/1124654",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
     {
       "date": "2026-11-02",
       "member": "rei",
@@ -360,15 +369,6 @@ window.APPARE_UPDATES = {
       "member": "natsu",
       "name": "森川なつ",
       "url": "https://appare-official.jp/member/contents/1116156",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-10-03",
-      "member": "suzu",
-      "name": "藍井すず",
-      "url": "https://appare-official.jp/member/contents/1115959",
       "type": "fc_blog",
       "title": "FCブログを更新",
       "restricted": true
