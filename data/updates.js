@@ -1,7 +1,7 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-11-04",
-  "windowStart": "2026-10-05",
+  "checked": "2026-11-05",
+  "windowStart": "2026-10-06",
   "events": [
     {
       "date": "2026-11-05",
@@ -10,13 +10,18 @@ window.APPARE_UPDATES = {
     },
     {
       "date": "2026-11-07",
+      "title": "2026/11/7(土) 『＆横アリ大阪編〜桶狭間の戦い〜』開催決定！",
+      "url": "https://appare-official.jp/contents/1118899"
+    },
+    {
+      "date": "2026-11-07",
       "title": "2026/11/7(土)『I Dish Fes 2026』出演決定！",
       "url": "https://appare-official.jp/contents/1116401"
     },
     {
-      "date": "2026-11-07",
-      "title": "2026/11/7(土) 『＆横アリ大阪編〜桶狭間の戦い〜』開催決定！",
-      "url": "https://appare-official.jp/contents/1118899"
+      "date": "2026-11-08",
+      "title": "【ライブ】11/8(日)『＋横アリ』＠ヨドバシホール",
+      "url": "https://appare-official.jp/contents/1125099"
     },
     {
       "date": "2026-11-12",
@@ -42,11 +47,6 @@ window.APPARE_UPDATES = {
       "date": "2026-11-22",
       "title": "2026/11/22(日)『♡ぷりちーあみち生誕祭2026♡』",
       "url": "https://appare-official.jp/contents/1117842"
-    },
-    {
-      "date": "2026-11-28",
-      "title": "【ライブ】11/28(土)『VS横アリ 其の二』＠豊洲PIT",
-      "url": "https://appare-official.jp/contents/1116260"
     }
   ],
   "announcements": [
