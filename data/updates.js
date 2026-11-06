@@ -1,22 +1,17 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-11-05",
-  "windowStart": "2026-10-06",
+  "checked": "2026-11-06",
+  "windowStart": "2026-10-07",
   "events": [
     {
-      "date": "2026-11-05",
-      "title": "2026/11/5(木) Devil ANTHEM. presents 『でびぱっぱ Road to 幕張イベントホール』出演決定！",
-      "url": "https://appare-official.jp/contents/1107630"
+      "date": "2026-11-07",
+      "title": "2026/11/7(土)『I Dish Fes 2026』出演決定！",
+      "url": "https://appare-official.jp/contents/1116401"
     },
     {
       "date": "2026-11-07",
       "title": "2026/11/7(土) 『＆横アリ大阪編〜桶狭間の戦い〜』開催決定！",
       "url": "https://appare-official.jp/contents/1118899"
-    },
-    {
-      "date": "2026-11-07",
-      "title": "2026/11/7(土)『I Dish Fes 2026』出演決定！",
-      "url": "https://appare-official.jp/contents/1116401"
     },
     {
       "date": "2026-11-08",
@@ -47,6 +42,11 @@ window.APPARE_UPDATES = {
       "date": "2026-11-22",
       "title": "2026/11/22(日)『♡ぷりちーあみち生誕祭2026♡』",
       "url": "https://appare-official.jp/contents/1117842"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "2026/11/23(月祝) 『＆横アリFes.』開催決定！",
+      "url": "https://appare-official.jp/contents/1125324"
     }
   ],
   "announcements": [
@@ -67,6 +67,15 @@ window.APPARE_UPDATES = {
     }
   ],
   "stories": [
+    {
+      "date": "2026-11-05",
+      "member": "mei",
+      "name": "藤宮めい",
+      "url": "https://appare-official.jp/member/contents/1125489",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
     {
       "date": "2026-11-03",
       "member": "ami",
@@ -342,15 +351,6 @@ window.APPARE_UPDATES = {
       "member": "ami",
       "name": "橋本あみ",
       "url": "https://appare-official.jp/member/contents/1116835",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-10-06",
-      "member": "rei",
-      "name": "朝比奈れい",
-      "url": "https://appare-official.jp/member/contents/1116530",
       "type": "fc_blog",
       "title": "FCブログを更新",
       "restricted": true
