@@ -1,13 +1,8 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-11-08",
-  "windowStart": "2026-10-09",
+  "checked": "2026-11-09",
+  "windowStart": "2026-10-10",
   "events": [
-    {
-      "date": "2026-11-08",
-      "title": "11/8(日)『＋横アリ』＠ヨドバシホール",
-      "url": "https://appare-official.jp/contents/1125099"
-    },
     {
       "date": "2026-11-12",
       "title": "2026/11/12(木)NEO JAPONISM主催公演 『KASSEN』出演決定！",
@@ -47,6 +42,11 @@ window.APPARE_UPDATES = {
       "date": "2026-11-28",
       "title": "【ライブ】11/28(土)『VS横アリ 其の二』＠豊洲PIT",
       "url": "https://appare-official.jp/contents/1116260"
+    },
+    {
+      "date": "2026-11-29",
+      "title": "2026/11/29(日)『第１１回あつぎミュージックフェスティバル』出演決定！",
+      "url": "https://appare-official.jp/contents/1110299"
     }
   ],
   "announcements": [
@@ -62,6 +62,33 @@ window.APPARE_UPDATES = {
     }
   ],
   "stories": [
+    {
+      "date": "2026-11-08",
+      "member": "amu",
+      "name": "北野あむ",
+      "url": "https://appare-official.jp/member/contents/1126107",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
+    {
+      "date": "2026-11-08",
+      "member": "natsu",
+      "name": "森川なつ",
+      "url": "https://appare-official.jp/member/contents/1126085",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
+    {
+      "date": "2026-11-08",
+      "member": "risa",
+      "name": "坂本りさ",
+      "url": "https://appare-official.jp/member/contents/1126058",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
     {
       "date": "2026-11-07",
       "member": "suzu",
