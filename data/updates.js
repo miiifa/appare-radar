@@ -1,7 +1,7 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-11-11",
-  "windowStart": "2026-10-12",
+  "checked": "2026-11-12",
+  "windowStart": "2026-10-13",
   "events": [
     {
       "date": "2026-11-12",
@@ -12,6 +12,11 @@ window.APPARE_UPDATES = {
       "date": "2026-11-14",
       "title": "2026/11/14(土) 『天祭 -TENSAI-』出演決定！",
       "url": "https://appare-official.jp/contents/1123262"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "11/14(土)『＋横アリ』＠日本丸メモリアルパーク",
+      "url": "https://appare-official.jp/contents/1126885"
     },
     {
       "date": "2026-11-15",
@@ -42,11 +47,6 @@ window.APPARE_UPDATES = {
       "date": "2026-11-28",
       "title": "【ライブ】11/28(土)『VS横アリ 其の二』＠豊洲PIT",
       "url": "https://appare-official.jp/contents/1116260"
-    },
-    {
-      "date": "2026-11-29",
-      "title": "2026/11/29(日)『第１１回あつぎミュージックフェスティバル』出演決定！",
-      "url": "https://appare-official.jp/contents/1110299"
     }
   ],
   "announcements": [
@@ -328,15 +328,6 @@ window.APPARE_UPDATES = {
       "member": "ami",
       "name": "橋本あみ",
       "url": "https://appare-official.jp/member/contents/1118729",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-10-12",
-      "member": "rei",
-      "name": "朝比奈れい",
-      "url": "https://appare-official.jp/member/contents/1118309",
       "type": "fc_blog",
       "title": "FCブログを更新",
       "restricted": true
