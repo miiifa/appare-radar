@@ -1,13 +1,8 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-11-12",
-  "windowStart": "2026-10-13",
+  "checked": "2026-11-13",
+  "windowStart": "2026-10-14",
   "events": [
-    {
-      "date": "2026-11-12",
-      "title": "2026/11/12(木)NEO JAPONISM主催公演 『KASSEN』出演決定！",
-      "url": "https://appare-official.jp/contents/1121373"
-    },
     {
       "date": "2026-11-14",
       "title": "2026/11/14(土) 『天祭 -TENSAI-』出演決定！",
@@ -47,6 +42,11 @@ window.APPARE_UPDATES = {
       "date": "2026-11-28",
       "title": "【ライブ】11/28(土)『VS横アリ 其の二』＠豊洲PIT",
       "url": "https://appare-official.jp/contents/1116260"
+    },
+    {
+      "date": "2026-11-29",
+      "title": "2026/11/29(日)『第１１回あつぎミュージックフェスティバル』出演決定！",
+      "url": "https://appare-official.jp/contents/1110299"
     }
   ],
   "announcements": [
@@ -62,6 +62,24 @@ window.APPARE_UPDATES = {
     }
   ],
   "stories": [
+    {
+      "date": "2026-11-12",
+      "member": "yume",
+      "name": "永堀ゆめ",
+      "url": "https://appare-official.jp/member/contents/1127389",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
+    {
+      "date": "2026-11-12",
+      "member": "mei",
+      "name": "藤宮めい",
+      "url": "https://appare-official.jp/member/contents/1127385",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
     {
       "date": "2026-11-10",
       "member": "ami",
@@ -319,15 +337,6 @@ window.APPARE_UPDATES = {
       "member": "mei",
       "name": "藤宮めい",
       "url": "https://appare-official.jp/member/contents/1119417",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-10-13",
-      "member": "ami",
-      "name": "橋本あみ",
-      "url": "https://appare-official.jp/member/contents/1118729",
       "type": "fc_blog",
       "title": "FCブログを更新",
       "restricted": true
