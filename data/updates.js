@@ -1,18 +1,8 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-11-14",
-  "windowStart": "2026-10-15",
+  "checked": "2026-11-15",
+  "windowStart": "2026-10-16",
   "events": [
-    {
-      "date": "2026-11-14",
-      "title": "2026/11/14(土) 『天祭 -TENSAI-』出演決定！",
-      "url": "https://appare-official.jp/contents/1123262"
-    },
-    {
-      "date": "2026-11-14",
-      "title": "11/14(土)『＋横アリ』＠日本丸メモリアルパーク",
-      "url": "https://appare-official.jp/contents/1126885"
-    },
     {
       "date": "2026-11-15",
       "title": "2026/11/15(日)Appare!フリーライブ！〜モトスミ・ブレーメン通り商店街アンバサダー就任式〜",
@@ -47,6 +37,16 @@ window.APPARE_UPDATES = {
       "date": "2026-11-29",
       "title": "2026/11/29(日)『第１１回あつぎミュージックフェスティバル』出演決定！",
       "url": "https://appare-official.jp/contents/1110299"
+    },
+    {
+      "date": "2026-12-05",
+      "title": "2026/12/5(土)『ハチャメチャアッパライナ』出演決定！",
+      "url": "https://appare-official.jp/contents/1124339"
+    },
+    {
+      "date": "2026-12-06",
+      "title": "2026/12/6(日)『藍井すず生誕祭2026 BIGLOVE！BIGLOVE！BIGLOVE！』",
+      "url": "https://appare-official.jp/contents/1125490"
     }
   ],
   "announcements": [
@@ -328,15 +328,6 @@ window.APPARE_UPDATES = {
       "member": "suzu",
       "name": "藍井すず",
       "url": "https://appare-official.jp/member/contents/1119994",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-10-15",
-      "member": "mei",
-      "name": "藤宮めい",
-      "url": "https://appare-official.jp/member/contents/1119417",
       "type": "fc_blog",
       "title": "FCブログを更新",
       "restricted": true
