@@ -1,13 +1,8 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-11-15",
-  "windowStart": "2026-10-16",
+  "checked": "2026-11-16",
+  "windowStart": "2026-10-17",
   "events": [
-    {
-      "date": "2026-11-15",
-      "title": "2026/11/15(日)Appare!フリーライブ！〜モトスミ・ブレーメン通り商店街アンバサダー就任式〜",
-      "url": "https://appare-official.jp/contents/1125492"
-    },
     {
       "date": "2026-11-17",
       "title": "2026/11/17(火)『shibuya luisant Vol.61』出演決定！",
@@ -47,6 +42,11 @@ window.APPARE_UPDATES = {
       "date": "2026-12-06",
       "title": "2026/12/6(日)『藍井すず生誕祭2026 BIGLOVE！BIGLOVE！BIGLOVE！』",
       "url": "https://appare-official.jp/contents/1125490"
+    },
+    {
+      "date": "2026-12-16",
+      "title": "2026/12/16(水)『ちゅらまちゅり』出演決定！",
+      "url": "https://appare-official.jp/contents/1107072"
     }
   ],
   "announcements": [
@@ -62,6 +62,33 @@ window.APPARE_UPDATES = {
     }
   ],
   "stories": [
+    {
+      "date": "2026-11-15",
+      "member": "amu",
+      "name": "北野あむ",
+      "url": "https://appare-official.jp/member/contents/1128125",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
+    {
+      "date": "2026-11-15",
+      "member": "risa",
+      "name": "坂本りさ",
+      "url": "https://appare-official.jp/member/contents/1128112",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
+    {
+      "date": "2026-11-15",
+      "member": "natsu",
+      "name": "森川なつ",
+      "url": "https://appare-official.jp/member/contents/1128110",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
     {
       "date": "2026-11-12",
       "member": "yume",
