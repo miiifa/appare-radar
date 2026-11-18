@@ -1,13 +1,8 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-11-17",
-  "windowStart": "2026-10-18",
+  "checked": "2026-11-18",
+  "windowStart": "2026-10-19",
   "events": [
-    {
-      "date": "2026-11-17",
-      "title": "2026/11/17(火)『shibuya luisant Vol.61』出演決定！",
-      "url": "https://appare-official.jp/contents/1121592"
-    },
     {
       "date": "2026-11-21",
       "title": "2026/11/21(土)22(日)わーすたpresents 『にゃんぽこらフェス！vol.3』出演決定！",
@@ -47,6 +42,11 @@ window.APPARE_UPDATES = {
       "date": "2026-12-16",
       "title": "2026/12/16(水)『ちゅらまちゅり』出演決定！",
       "url": "https://appare-official.jp/contents/1107072"
+    },
+    {
+      "date": "2026-12-27",
+      "title": "【ライブ】12/27(日)『VS横アリ 其の三』＠ステラボール",
+      "url": "https://appare-official.jp/contents/1123937"
     }
   ],
   "announcements": [
@@ -62,6 +62,15 @@ window.APPARE_UPDATES = {
     }
   ],
   "stories": [
+    {
+      "date": "2026-11-17",
+      "member": "ami",
+      "name": "橋本あみ",
+      "url": "https://appare-official.jp/member/contents/1128717",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
     {
       "date": "2026-11-16",
       "member": "rei",
@@ -328,33 +337,6 @@ window.APPARE_UPDATES = {
       "member": "ami",
       "name": "橋本あみ",
       "url": "https://appare-official.jp/member/contents/1120712",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-10-18",
-      "member": "amu",
-      "name": "北野あむ",
-      "url": "https://appare-official.jp/member/contents/1120165",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-10-18",
-      "member": "risa",
-      "name": "坂本りさ",
-      "url": "https://appare-official.jp/member/contents/1120164",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-10-18",
-      "member": "natsu",
-      "name": "森川なつ",
-      "url": "https://appare-official.jp/member/contents/1120151",
       "type": "fc_blog",
       "title": "FCブログを更新",
       "restricted": true
