@@ -1,7 +1,7 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-11-18",
-  "windowStart": "2026-10-19",
+  "checked": "2026-11-19",
+  "windowStart": "2026-10-20",
   "events": [
     {
       "date": "2026-11-21",
@@ -44,9 +44,9 @@ window.APPARE_UPDATES = {
       "url": "https://appare-official.jp/contents/1107072"
     },
     {
-      "date": "2026-12-27",
-      "title": "【ライブ】12/27(日)『VS横アリ 其の三』＠ステラボール",
-      "url": "https://appare-official.jp/contents/1123937"
+      "date": "2026-12-24",
+      "title": "2026/12/24(木)・25(金)『Appare! CHRISTMAS 2026』開催決定！",
+      "url": "https://appare-official.jp/contents/1128983"
     }
   ],
   "announcements": [
@@ -62,6 +62,15 @@ window.APPARE_UPDATES = {
     }
   ],
   "stories": [
+    {
+      "date": "2026-11-18",
+      "member": "yume",
+      "name": "永堀ゆめ",
+      "url": "https://appare-official.jp/member/contents/1129092",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
     {
       "date": "2026-11-17",
       "member": "ami",
