@@ -1,7 +1,7 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-11-19",
-  "windowStart": "2026-10-20",
+  "checked": "2026-11-20",
+  "windowStart": "2026-10-21",
   "events": [
     {
       "date": "2026-11-21",
@@ -62,6 +62,15 @@ window.APPARE_UPDATES = {
     }
   ],
   "stories": [
+    {
+      "date": "2026-11-19",
+      "member": "mei",
+      "name": "藤宮めい",
+      "url": "https://appare-official.jp/member/contents/1129382",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
     {
       "date": "2026-11-18",
       "member": "yume",
@@ -337,15 +346,6 @@ window.APPARE_UPDATES = {
       "member": "mei",
       "name": "藤宮めい",
       "url": "https://appare-official.jp/member/contents/1121394",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-10-20",
-      "member": "ami",
-      "name": "橋本あみ",
-      "url": "https://appare-official.jp/member/contents/1120712",
       "type": "fc_blog",
       "title": "FCブログを更新",
       "restricted": true
