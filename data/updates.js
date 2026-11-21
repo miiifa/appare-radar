@@ -1,7 +1,7 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-11-20",
-  "windowStart": "2026-10-21",
+  "checked": "2026-11-21",
+  "windowStart": "2026-10-22",
   "events": [
     {
       "date": "2026-11-21",
@@ -54,11 +54,6 @@ window.APPARE_UPDATES = {
       "date": "2026-11-06",
       "title": "横浜アリーナワンマンライブ『Appare!やったれ！横浜アリーナ〜みんなで作る！横浜アリーナ〜』",
       "url": "https://appare-official.jp/contents/1125495"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "【お知らせ】「かながわ部活応援チャンネル」2026テーマソング決定！",
-      "url": "https://appare-official.jp/contents/1121010"
     }
   ],
   "stories": [
