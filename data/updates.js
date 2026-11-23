@@ -1,13 +1,8 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-11-22",
-  "windowStart": "2026-10-23",
+  "checked": "2026-11-23",
+  "windowStart": "2026-10-24",
   "events": [
-    {
-      "date": "2026-11-22",
-      "title": "2026/11/22(日)『♡ぷりちーあみち生誕祭2026♡』",
-      "url": "https://appare-official.jp/contents/1117842"
-    },
     {
       "date": "2026-11-23",
       "title": "2026/11/23(月祝) 『＆横アリFes.』開催決定！",
@@ -47,6 +42,11 @@ window.APPARE_UPDATES = {
       "date": "2026-12-27",
       "title": "【ライブ】12/27(日)『VS横アリ 其の三』＠ステラボール",
       "url": "https://appare-official.jp/contents/1123937"
+    },
+    {
+      "date": "2026-12-28",
+      "title": "2026/12/28(月)『SPARK 2026 年末SPECIAL』出演決定！",
+      "url": "https://appare-official.jp/contents/1123509"
     }
   ],
   "announcements": [
@@ -57,6 +57,33 @@ window.APPARE_UPDATES = {
     }
   ],
   "stories": [
+    {
+      "date": "2026-11-23",
+      "member": "amu",
+      "name": "北野あむ",
+      "url": "https://appare-official.jp/member/contents/1130186",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
+    {
+      "date": "2026-11-22",
+      "member": "risa",
+      "name": "坂本りさ",
+      "url": "https://appare-official.jp/member/contents/1130165",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
+    {
+      "date": "2026-11-22",
+      "member": "natsu",
+      "name": "森川なつ",
+      "url": "https://appare-official.jp/member/contents/1130164",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
     {
       "date": "2026-11-19",
       "member": "mei",
@@ -314,24 +341,6 @@ window.APPARE_UPDATES = {
       "member": "suzu",
       "name": "藍井すず",
       "url": "https://appare-official.jp/member/contents/1121926",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-10-23",
-      "member": "yume",
-      "name": "永堀ゆめ",
-      "url": "https://appare-official.jp/member/contents/1121711",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-10-23",
-      "member": "rea",
-      "name": "七瀬れあ",
-      "url": "https://appare-official.jp/member/contents/1121699",
       "type": "fc_blog",
       "title": "FCブログを更新",
       "restricted": true
