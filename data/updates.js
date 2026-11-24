@@ -1,13 +1,8 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-11-23",
-  "windowStart": "2026-10-24",
+  "checked": "2026-11-24",
+  "windowStart": "2026-10-25",
   "events": [
-    {
-      "date": "2026-11-23",
-      "title": "2026/11/23(月祝) 『＆横アリFes.』開催決定！",
-      "url": "https://appare-official.jp/contents/1125324"
-    },
     {
       "date": "2026-11-28",
       "title": "【ライブ】11/28(土)『VS横アリ 其の二』＠豊洲PIT",
@@ -47,6 +42,11 @@ window.APPARE_UPDATES = {
       "date": "2026-12-28",
       "title": "2026/12/28(月)『SPARK 2026 年末SPECIAL』出演決定！",
       "url": "https://appare-official.jp/contents/1123509"
+    },
+    {
+      "date": "2026-12-29",
+      "title": "2026/12/29(火)『PLAYYTE Premium Party vol.2』",
+      "url": "https://appare-official.jp/contents/1119227"
     }
   ],
   "announcements": [
@@ -332,15 +332,6 @@ window.APPARE_UPDATES = {
       "member": "natsu",
       "name": "森川なつ",
       "url": "https://appare-official.jp/member/contents/1122046",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-10-24",
-      "member": "suzu",
-      "name": "藍井すず",
-      "url": "https://appare-official.jp/member/contents/1121926",
       "type": "fc_blog",
       "title": "FCブログを更新",
       "restricted": true
