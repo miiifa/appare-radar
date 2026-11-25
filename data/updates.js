@@ -1,7 +1,7 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-11-24",
-  "windowStart": "2026-10-25",
+  "checked": "2026-11-25",
+  "windowStart": "2026-10-26",
   "events": [
     {
       "date": "2026-11-28",
@@ -57,6 +57,15 @@ window.APPARE_UPDATES = {
     }
   ],
   "stories": [
+    {
+      "date": "2026-11-25",
+      "member": "ami",
+      "name": "橋本あみ",
+      "url": "https://appare-official.jp/member/contents/1131755",
+      "type": "fc_blog",
+      "title": "FCブログを更新",
+      "restricted": true
+    },
     {
       "date": "2026-11-23",
       "member": "amu",
@@ -305,33 +314,6 @@ window.APPARE_UPDATES = {
       "member": "ami",
       "name": "橋本あみ",
       "url": "https://appare-official.jp/member/contents/1122740",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-10-25",
-      "member": "amu",
-      "name": "北野あむ",
-      "url": "https://appare-official.jp/member/contents/1122120",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-10-25",
-      "member": "risa",
-      "name": "坂本りさ",
-      "url": "https://appare-official.jp/member/contents/1122069",
-      "type": "fc_blog",
-      "title": "FCブログを更新",
-      "restricted": true
-    },
-    {
-      "date": "2026-10-25",
-      "member": "natsu",
-      "name": "森川なつ",
-      "url": "https://appare-official.jp/member/contents/1122046",
       "type": "fc_blog",
       "title": "FCブログを更新",
       "restricted": true
