@@ -1,7 +1,7 @@
 // Generated from public official schedule, information, FC blog metadata and FM FUJI listings.
 window.APPARE_UPDATES = {
-  "checked": "2026-11-25",
-  "windowStart": "2026-10-26",
+  "checked": "2026-11-26",
+  "windowStart": "2026-10-27",
   "events": [
     {
       "date": "2026-11-28",
@@ -29,6 +29,11 @@ window.APPARE_UPDATES = {
       "url": "https://appare-official.jp/contents/1107072"
     },
     {
+      "date": "2026-12-20",
+      "title": "2026/12/20(日)『YORU-FES vol.12』出演決定！",
+      "url": "https://appare-official.jp/contents/1131880"
+    },
+    {
       "date": "2026-12-24",
       "title": "2026/12/24(木)・25(金)『Appare! CHRISTMAS 2026』開催決定！",
       "url": "https://appare-official.jp/contents/1128983"
@@ -42,14 +47,14 @@ window.APPARE_UPDATES = {
       "date": "2026-12-28",
       "title": "2026/12/28(月)『SPARK 2026 年末SPECIAL』出演決定！",
       "url": "https://appare-official.jp/contents/1123509"
-    },
-    {
-      "date": "2026-12-29",
-      "title": "2026/12/29(火)『PLAYYTE Premium Party vol.2』",
-      "url": "https://appare-official.jp/contents/1119227"
     }
   ],
   "announcements": [
+    {
+      "date": "2026-11-26",
+      "title": "[重要]システムメンテナンスのお知らせ",
+      "url": "https://appare-official.jp/contents/1131242"
+    },
     {
       "date": "2026-11-06",
       "title": "横浜アリーナワンマンライブ『Appare!やったれ！横浜アリーナ〜みんなで作る！横浜アリーナ〜』",
